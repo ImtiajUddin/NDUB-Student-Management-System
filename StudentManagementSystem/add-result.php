@@ -44,7 +44,7 @@ else
 $error="Something went wrong. Please try again";
 }
 }
-}
+} 
 ?>
 <!DOCTYPE html>
 <html lang="en">
